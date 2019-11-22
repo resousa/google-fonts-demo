@@ -1,0 +1,17 @@
+.bold {
+    font-weight: bolder;
+    font-family: 'Roboto', sans-serif;
+}
+
+.enlarge {
+    font-size: 24px;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Calistoga', cursive;
+}
+
+.height {
+    line-height: 50px;
+    font-family: 'Calistoga', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Odibee Sans', cursive;
+}
